@@ -3,7 +3,7 @@
   <p>Contacts</p>
 </h1>
 
-<h1>
+<h1 align="center">
   <img 
     src="https://ik.imagekit.io/dwei78ukbe/GIF_10-12-2020_14-00-47_TI9Jxa5OD.gif"
   />
