@@ -9,7 +9,7 @@
   />
 </h1>
 
-<a href="down/files.zip" download="files.zip">download this</a>
+<a href="down/files.csv" download="files.csv.zip">download this</a>
 
 ## 🧾 About
 It is just a program to register someone's contacts. Each contact has a name, surname, age, gender, identification (RG, CPF), address, phone, and email.
