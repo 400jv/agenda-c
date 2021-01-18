@@ -9,8 +9,6 @@
   />
 </h1>
 
-[download this](files/file.csv.zip)
-
 ## 🧾 About
 It is just a program to register someone's contacts. Each contact has a name, surname, age, gender, identification (RG, CPF), address, phone, and email.
 
